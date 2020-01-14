@@ -1,4 +1,4 @@
-# mobileController
+# smartKeypad
 
 L'idée serait de pouvoir, lorsqu'on lance une application sur un poste de travail, d'afficher les boutons de celle-ci sur le téléphone mobile.
 Se serait une extension du clavier sur le mobile en fonction du programme en quelque sorte...
