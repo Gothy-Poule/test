@@ -11,4 +11,4 @@ Cela devrait être multi-plateformes (Android, IOS / Linux, Mac Windows)
 
 Les choix pour une version Beta :
 * Pour android utilisation du java
-* Pour poste de travail Linux utilisation... python
+* Pour poste de travail Linux utilisation de java
